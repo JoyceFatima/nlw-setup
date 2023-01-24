@@ -1,4 +1,3 @@
-# nlw-setup
 <h1 align="center"> 
 <img src="./files/logo.svg" height=20 alt="logo ignite lab">
 	 - Gestão de Hábitos completa com NodeJs (Back-end), ReactJs (Front-end) e React-Native (Mobile)
