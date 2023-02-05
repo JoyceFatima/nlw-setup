@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-vitrine-dev">Vitrine Dev</a> •
+ <a href="#-habits">Habits</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-instalação">Instalações</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
@@ -76,7 +76,7 @@ Projeto foi realizado no NLW-Setup da Rocketseat.
 ---
 
 &nbsp;
-<a id="-vitrine-dev"></a>
+<a id="-habits"></a>
 
 
 | :sparkles: Habits |                                                                                                                                                    |
