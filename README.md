@@ -78,9 +78,8 @@ Projeto foi realizado no NLW-Setup da Rocketseat.
 &nbsp;
 <a id="-vitrine-dev"></a>
 
-## 📺 Vitrine Dev
 
-| :placard: Vitrine.Dev |                                                                                                                                                    |
+| :sparkles: Habits |                                                                                                                                                    |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | :sparkles: Nome       | **Gestão de Hábitos completa com NodeJs (Back-end), ReactJs (Front-end) e React-Native (Mobile)**                                                  |
 | :label: Tecnologias   | React-native, ReactJs, Expo, Prisma, Tailwindcss, NativeWind, NodeJs, JavaScript, TypeScript, HTML5, CSS3, Axios, SQLite3, Figma, Eslint, Prettier |
@@ -440,7 +439,7 @@ npm install clsx
 
 ## ⚙️ Funcionalidades
 
-### Running the server back-end
+### Executando o servidor back-end
 
 ```bash
 # development (http://localhost:3000/) | tsx watch src/server.ts
@@ -475,7 +474,7 @@ npx prisma db seed
 
 ![diagrama db](https://raw.githubusercontent.com/LivioAlvarenga/Nlw-Setup/d38430aa86f096acba43d797c529d7c9fe8f932b/server/prisma/ERD.svg)
 
-### Running the app mobile
+### Executando o aplicativo mobile
 
 ```bash
 cd mobile
@@ -484,7 +483,7 @@ npx expo start
 npx expo start --clear
 ```
 
-### Running the app web
+### Executando o aplicativo web
 
 ```bash
 cd web
